@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS techTime_db;
+
+CREATE DATABASE techTime_db;
